@@ -38,10 +38,9 @@ Bundle 'vim-scripts/Align'
 Bundle 'vim-scripts/greplace.vim'
 Bundle 'vim-scripts/kwbdi.vim'
 Bundle 'vim-scripts/matchit.zip'
-Bundle "MarcWeber/vim-addon-mw-utils"
-Bundle "tomtom/tlib_vim"
-Bundle "garbas/vim-snipmate"
-Bundle "honza/vim-snippets"
+Bundle 'honza/vim-snippets'
 Bundle 'Raimondi/delimitMate'
 Bundle 'terryma/vim-multiple-cursors'
 Bundle 'maxbrunsfeld/vim-yankstack'
+Bundle 'jnwhiteh/vim-golang'
+Bundle 'Blackrush/vim-gocode'
